@@ -1,0 +1,55 @@
+.dark_background {
+    background-color: #0b0b0b;
+}
+
+.bulb-image {
+    width: 150px;
+}
+
+.Cat_image {
+    width: 300px;
+}
+
+.switch_board {
+    background-color: #7b8794;
+    width: 300px;
+    height: 140px;
+    border-radius: 12px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    margin: 16px;
+}
+
+.switch_status {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 24px;
+}
+
+.On_Switch {
+    color: #ffffff;
+    background-color: #cbd2d9;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: bold;
+    width: 99px;
+    height: 44px;
+    border-radius: 8px;
+    margin-left: 16px;
+}
+
+.Off_switch {
+    color: #ffffff;
+    background-color: #cbd2d9;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: bold;
+    width: 99px;
+    height: 44px;
+    border-radius: 8px;
+    margin-left: 16px;
+}
